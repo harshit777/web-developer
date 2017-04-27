@@ -1,0 +1,226 @@
+<html>
+    <head>
+    
+        <title>Technology - BBC NEWS</title>
+        
+        <link rel="stylesheet" type="text/css" href="bbc.css">
+        
+    </head>
+    
+    <body>
+    
+        <div id="topbar">
+        
+            <img id="logo" src="images/bbc_logo.png">
+            
+            <div id="signin-div" class="topbar-section">
+                
+                <img id="signin-image" src="images/Capture.PNG">
+                
+                <span id="signin-text"> Sign in </span>
+            
+            </div>
+            
+            <div class="topbar-section topbar-menu">
+            
+                News
+                
+            </div>
+            
+             <div class="topbar-section topbar-menu">
+            
+                Sports
+                
+            </div>
+            
+             <div class="topbar-section topbar-menu">
+            
+                Weather
+                
+            </div>
+            
+             <div class="topbar-section topbar-menu">
+            
+                iPlayer
+                
+            </div>
+            
+             <div class="topbar-section topbar-menu">
+            
+                TV
+                
+            </div>
+            
+             <div class="topbar-section topbar-menu">
+            
+                More
+                 
+                <img id="more-arrow" src="images/arrow.png">
+                
+            </div>
+            
+            <div class="topbar-section">
+                
+                <input id="search-box" type="text" value="Search">
+                
+                <input type="image" id="search-glass" src="images/search.png">
+            
+            </div>   
+            
+        </div>
+        
+        
+        <div class="clear"> 
+        </div>
+        
+        <div id="menu-bar-container">
+        
+            <div id="menu-bar">
+                <h1>NEWS</h1>
+            </div>
+            
+            <div id="menu-bar-2-container">
+            
+                <div id="menu-bar-2">
+                    
+                    <a href="">Home</a>
+                    <a href="">UK</a>
+                    <a href="">World</a>
+                    <a href="">Business</a>
+                    <a href="">Politics</a>
+                    <a href="">Tech</a>
+                    <a href="">Science</a>
+                    <a href="">Health</a>
+                    <a href="">Education</a>
+                    <a href="">Entertainment & Arts</a>
+                    <a href="">Video & Audio</a>
+                    <a href="" class="no-border">More</a>
+                    
+                    <img id="down-arrow" src="images/arrow_white.png">
+                
+                </div>
+                
+            </div>
+            
+         </div>
+    
+        <div class="clear"></div>
+        
+        <div id="page-container">
+        
+            <div id="main-article">
+            
+                <h2>Technology</h2>
+                
+                <div id="article-container">
+                
+                    <h3><a href="">Cash offered after drones disrupt flights</a></h3>
+
+                    <div id="article-summary">
+
+                        <p>"Up to £112,000 is being offered for information about drones that disrupted flights at a Chinese airport."</p>
+
+                        <p><img class="clock" src="images/clock.png"><span class="space">27 April 2017</span><a id="topic-link" href="">Technology</a> </p>
+                        
+                        <hr id="article-hr" align="left">
+                            
+                        <p><a class="article-link" href="">How easy is it to fly a drone safely?</a></p>
+                    </div>
+                    
+                    <img id="main-article-image" src="images/drone.png">
+                </div>
+                
+                
+            
+            </div>
+            
+            
+            <div id="watch-listen">
+                
+                <h4>Watch/Listen</h4>
+                
+                <img class="article-side-image" src="images/first.png">
+                
+                <div class="side-article">
+                     
+                    <p><a class="watch-listen-link" href="">Turning shipping containers into farms</a></p>
+                    
+                    <div class="shift">
+                    
+                        <p><img class="clock" src="images/clock.png"><span class="space">27 April 2017</span><br><a id="topic-link" href="">Technology</a></p>
+                    
+                    </div>
+
+                </div>
+                
+                <div class="clear"></div>
+                <div class="setting">
+                
+                    <img class="article-side-image" src="images/second.png">
+
+                    <div class="side-article">
+                     
+                        <p><a class="watch-listen-link" href="">Naked selfie-spotting app put to the test</a></p>
+
+                        <div class="shift">
+
+                            <p><img class="clock" src="images/clock.png"><span class="space">27 April 2017</span><a id="topic-link" href="">Technology</a></p>
+
+                        </div>
+                    
+                    </div>
+                    
+                </div>
+                    
+                    <div class="clear"></div>
+                    
+                     <div class="setting">
+
+                        <img class="article-side-image" src="images/third.png">
+
+                        <div class="side-article">
+                     
+                            <p><a class="watch-listen-link" href="">The drones which help solve air accidents</a></p>
+
+                            <div class="shift">
+
+                                <p><img class="clock" src="images/clock.png"><span class="space">27 April 2017</span><a id="topic-link" href="">Technology</a></p>
+
+                            </div>
+                    
+                        </div>
+                         
+                    </div>
+                
+            
+                    
+                    <div class="clear"></div>
+                    
+                     <div class="setting">
+
+                        <img class="article-side-image" src="images/fourth.png">
+
+                        <div class="side-article">
+                     
+                            <p><a class="watch-listen-link" href="">Are flying cars really the future?</a></p>
+
+                            <div class="shift">
+
+                                <p><img class="clock" src="images/clock.png"><span class="space">27 April 2017</span><a id="topic-link" href="">Technology</a></p>
+
+                            </div>
+                    
+                        </div>
+                
+                    </div>
+                    
+            </div>
+            
+        
+        
+        </div>
+        
+    </body>
+
+
+</html>
